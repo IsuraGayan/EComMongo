@@ -1,4 +1,4 @@
-<h1>Django E-Commerce Site with MYSQL Database</h1>
+<h1>Django E-Commerce Site with MongoDB Database</h1>
 
 <p>This is an E-Commerce Web Site which has made using Django Framework (Python Web Framework).</p>
 
